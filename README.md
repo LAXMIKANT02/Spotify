@@ -31,7 +31,7 @@ This project was created as a front-end practice to understand layout structurin
    ```bash
    git clone https://github.com/LAXMIKANT02/Spotify-Clone.git
    
-## Open the project:
+### Open the project:
 
 Navigate into the folder and open index.html in your browser.
 
@@ -86,7 +86,8 @@ Use CSS animations or libraries like Animate.css to enhance user engagement.
 
 ## 👨‍💻 Author
 Laxmikant S.
-GitHub | LinkedIn
+
+[GitHub Profile](https://github.com/LAXMIKANT02)
 
 ## 📜 License
 This project is licensed under the MIT License.
